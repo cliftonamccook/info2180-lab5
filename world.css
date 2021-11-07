@@ -71,3 +71,9 @@ td, th {
 tr:nth-child(even){
     background-color: #f2f2f2;
 }
+
+#lookup-cities {
+    background-color: #4299e1;
+    color: #ffffff;
+    display: inline-block;
+}
